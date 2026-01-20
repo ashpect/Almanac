@@ -21,7 +21,7 @@ NAITIK is an dark pattern detection system designed to identify and prevent dece
 Homemade groth16 zk system for learning and experimentation.
 
 
-## OSS Contributions
+## Fav OSS Contributions
 - Katana [katana](https://github.com/sdslabs/katana)
 An advanced yet simple attack/defence CTF infrastructure in Go
 
